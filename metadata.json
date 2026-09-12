@@ -1,0 +1,6 @@
+{
+  "name": "Life RPG",
+  "description": "A gamified productivity web application translating real-world tasks and habits into an engaging RPG progression system with stats, streaks, loot, and leveling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
